@@ -1,0 +1,1 @@
+rootProject.name = "ktor-rsocket-error"
